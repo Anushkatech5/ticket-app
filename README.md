@@ -11,7 +11,7 @@ Ticket-App is a comprehensive ticketing application developed using Flutter and 
   <div style="flex: 1; max-width: 15%; margin-left: 5mm;">
     <img src="assets/Screenshots/hotel_detail.png" alt="Hotel Detail" style="width: 100%; max-height: 50px; object-fit: contain;" />
   </div>
-</div>
+</div> 
 
 ## Features
 - **Complex UI Components**: Implementation of stateful and stateless widgets and reusable widgets.
