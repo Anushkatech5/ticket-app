@@ -4,9 +4,13 @@
 Ticket-App is a comprehensive ticketing application developed using Flutter and Dart. This project demonstrates advanced UI design, state management, and smooth navigation. The app features various screens including home, search, ticket details, and profile, with interactive UI animations and seamless transitions.
 
 ## Screenshots
-<div style="display: flex; flex-direction: row;">
-  <img src="assets/Screenshots/home_page.png" alt="Home Screen" width="400" />
-  <img src="assets/Screenshots/hotel_detail.png" alt="Hotel Detail" width="400" />
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; margin-right: 5mm;">
+    <img src="assets/Screenshots/home_page.png" alt="Home Screen" style="max-width: 100%; height: auto;" />
+  </div>
+  <div style="flex: 1; margin-left: 5mm;">
+    <img src="assets/Screenshots/hotel_detail.png" alt="Hotel Detail" style="max-width: 100%; height: auto;" />
+  </div>
 </div>
 
 ## Features
