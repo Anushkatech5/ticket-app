@@ -9,7 +9,7 @@ Ticket-App is a comprehensive ticketing application developed using Flutter and 
 ### Home Screen
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <img src="assets/Screenshots/home_page.png" alt="Home Screen" width="150" />
+    <img src="assets/Screenshots/home_page.png" alt="Home Screen" width="215" />
   </div>
   <div style="flex: 1; margin-left: 10mm;">
   </div>
@@ -18,7 +18,7 @@ Ticket-App is a comprehensive ticketing application developed using Flutter and 
 ### Hotel Detail
 <div style="display: flex; align-items: center; margin-top: 10mm;">
   <div style="flex: 1;">
-    <img src="assets/Screenshots/hotel_detail.png" alt="Hotel Detail" width="150" />
+    <img src="assets/Screenshots/hotel_detail.png" alt="Hotel Detail" width="215" />
   </div>
   <div style="flex: 1; margin-left: 10mm;">
   </div>
