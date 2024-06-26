@@ -27,7 +27,7 @@ Implemented GetX, BLoC, and Riverpod for managing app state.
 5. Open a pull request.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the Apache-2.0 license.
 
 ## Acknowledgements
 Special thanks to the Flutter community and the creators of the state management solutions used in this project.
